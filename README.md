@@ -10,7 +10,7 @@ Function Analysis
 
 Function Name: `swapExactTokensForTokens`
 
-Block Explorer Link: https://etherscan.io/address/0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D
+Block Explorer Link: https://etherscan.io/address/0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D#code
 
 Function Code:
 function swapExactTokensForTokens(
