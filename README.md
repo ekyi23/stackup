@@ -1,1 +1,3 @@
+This project develops a customer support chatbot that leverages sentiment analysis to improve interactivity and responsiveness. The chatbot integrates a Hugging Face sentiment analysis model to detect user emotions, such as frustration or satisfaction. Depending on the sentiment, the chatbot dynamically adjusts its responses—for example, offering apologies and help for negative sentiments or providing encouraging responses for positive feedback. By using the Hugging Face pre-trained models and integrating them with a Python-based chatbot, the project aims to enhance the customer experience by making conversations more engaging and supportive.
 
+The chats and responses are then saved into a csv for analyses later on.
